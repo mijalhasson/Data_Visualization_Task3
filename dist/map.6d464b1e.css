@@ -1,0 +1,22 @@
+.country {
+  stroke-width: 1;
+  stroke: #004039;
+  fill: #008c86;
+}
+
+.selected-marker {
+  stroke-width: 1;
+  stroke: #bc5b40;
+  fill: #f88f70;
+  fill-opacity: 0.7;
+}
+
+.affected-marker {
+  stroke-width: 1;
+  stroke: #a46f1a;
+  fill: #FFD28C;
+  fill-opacity: 0.5;
+}
+
+
+/*# sourceMappingURL=/map.6d464b1e.css.map */
